@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\Ödev1804\Fiyat\bin\Debug\net5.0\Fiyat.exe
+C:\Users\Asus\source\repos\Ödev1804\Fiyat\bin\Debug\net5.0\Fiyat.deps.json
+C:\Users\Asus\source\repos\Ödev1804\Fiyat\bin\Debug\net5.0\Fiyat.runtimeconfig.json
+C:\Users\Asus\source\repos\Ödev1804\Fiyat\bin\Debug\net5.0\Fiyat.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Ödev1804\Fiyat\bin\Debug\net5.0\Fiyat.dll
+C:\Users\Asus\source\repos\Ödev1804\Fiyat\bin\Debug\net5.0\ref\Fiyat.dll
+C:\Users\Asus\source\repos\Ödev1804\Fiyat\bin\Debug\net5.0\Fiyat.pdb
+C:\Users\Asus\source\repos\Ödev1804\Fiyat\obj\Debug\net5.0\Fiyat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\Ödev1804\Fiyat\obj\Debug\net5.0\Fiyat.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Ödev1804\Fiyat\obj\Debug\net5.0\Fiyat.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Ödev1804\Fiyat\obj\Debug\net5.0\Fiyat.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Ödev1804\Fiyat\obj\Debug\net5.0\Fiyat.dll
+C:\Users\Asus\source\repos\Ödev1804\Fiyat\obj\Debug\net5.0\ref\Fiyat.dll
+C:\Users\Asus\source\repos\Ödev1804\Fiyat\obj\Debug\net5.0\Fiyat.pdb
+C:\Users\Asus\source\repos\Ödev1804\Fiyat\obj\Debug\net5.0\Fiyat.genruntimeconfig.cache
